@@ -7,3 +7,7 @@ This is a 2D educative game for children involing a snake eating only the right 
 This repository contains the project file, and the built game can be downloaded on the link below. Note that you need Unity installed on your pc to run it. 
 
 Built game: https://drive.google.com/file/d/1d9raUGHKs_-Y9_tTilKnqf0A-I-Yz8lC/view?usp=sharing
+
+Game logic is given below with the architecture: 
+
+![ProffesorSnakeDiagram](https://user-images.githubusercontent.com/84543584/193924741-64782808-16cc-4028-bda1-55b9c7d25273.png)
