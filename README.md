@@ -1,4 +1,4 @@
-# Professor-Snake- A 2D unitygame
+# Professor-Snake- A 2D unity game
 
 ![Proffesor_Snake_AdobeExpress](https://user-images.githubusercontent.com/84543584/193881111-a2f04661-6a0f-4d59-802e-d7431013e729.gif)
 
