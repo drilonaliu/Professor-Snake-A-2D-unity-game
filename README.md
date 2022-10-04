@@ -10,4 +10,6 @@ Built game: https://drive.google.com/file/d/1d9raUGHKs_-Y9_tTilKnqf0A-I-Yz8lC/vi
 
 Game logic is given below with the architecture: 
 
-![ProffesorSnakeDiagram](https://user-images.githubusercontent.com/84543584/193924741-64782808-16cc-4028-bda1-55b9c7d25273.png)
+
+
+![ProffesorSnakeDiagram (3)](https://user-images.githubusercontent.com/84543584/193932559-84bcee73-916d-4fca-8dd1-9f217d6b73f5.jpg)
